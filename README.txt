@@ -6,12 +6,13 @@
 
 
 implemented:
-1-Async storage
+1-Async storage implemented
 2-Giphy api
 3-Home screen,list screen and detail screen is there
 4-Favourite screen is there to add favouries 
 5-Add favourites by touching the heart icon 
 6-Favourite list it was showing
+7-Search functionality is there also by touching search icon
 
 
 
